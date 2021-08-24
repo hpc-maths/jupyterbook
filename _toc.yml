@@ -1,9 +1,10 @@
 format: jb-book
 root: content/home
 parts:
-- caption: 
-  chapters:
+- caption: Toto
+  chapters: 
   - file: content/mode_emploi
+  - file: content/intro_notebook
 - caption: Chapitres
   chapters:
   - file: content/chapter/float/float
