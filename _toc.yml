@@ -16,8 +16,8 @@ parts:
     - file: content/chapter/float/cond
     - file: content/chapter/float/stability
   - file: content/chapter/interpolation/interpolation
-    sections:
-    - file: content/chapter/interpolation/newton
+    #sections:
+    #- file: content/chapter/interpolation/newton
 - caption: Petites Classes
   chapters:
   - file: content/pc/pc1

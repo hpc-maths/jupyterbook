@@ -1,4 +1,4 @@
-# Mode d'emploi pour l'execution des notebooks Jupyter
+# Mode d'emploi pour l'exécution des notebooks Jupyter
 
 Afin de pouvoir exécuter les notebooks mise à disposition pour les cours et les pc, trois possibilités sont possibles :
 
@@ -60,7 +60,7 @@ Pour ce mode, il suffit de télécharger les notebooks Jupyter depuis ce site et
 
 ## Utiliser Binder
 
-Binder propose de déployer un environnement Jupyter accessible en ligne, sans aucune installation, à partir d’un dépôt de git contenant des notebooks.
+Binder propose de déployer un environnement Jupyter accessible en ligne, sans aucune installation, à partir d’un dépôt git contenant des notebooks.
 Pour lancer les notebooks du cours, il suffit de cliquer sur le lien binder présent sur chaque page du site proposant un notebook. 
 
 Remarque : l'environnement Jupyter est supprimé lorsque que la session se termine, pensez à télécharger le notebook sur votre machine si vous souhaitez le garder. 
