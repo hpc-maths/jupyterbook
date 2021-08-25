@@ -1,7 +1,7 @@
 format: jb-book
 root: content/home
 parts:
-- caption: Toto
+- caption:
   chapters: 
   - file: content/mode_emploi
   - file: content/intro_notebook
