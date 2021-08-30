@@ -1,6 +1,6 @@
 # Mode d'emploi pour l'exécution des notebooks Jupyter
 
-Afin de pouvoir exécuter les notebooks mise à disposition pour les cours et les pc, trois possibilités sont possibles :
+Afin de pouvoir exécuter les notebooks mis à disposition pour les cours et les pc, trois possibilités sont possibles :
 
 ## Utiliser son environnement personnel
 
@@ -36,7 +36,7 @@ Pour ce mode, il suffit de télécharger les notebooks Jupyter depuis ce site et
 
 ## Utiliser le JupyterHub de l'école
 
-Pour ce mode, il suffit de télécharger les notebooks Jupyter depuis ce site et les copier vers le serveur `JupyterHub` de l'école (cf. procéduire suivante).
+Pour ce mode, il suffit de télécharger les notebooks Jupyter depuis ce site et les copier vers le serveur `JupyterHub` de l'école (cf. procédure suivante).
 
 ```{admonition} Utilisation du JupyterHub de l'école
 
