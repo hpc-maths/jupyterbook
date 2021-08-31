@@ -8,7 +8,8 @@ pages:
   - ls
   - jupyter-book build . 
   - mv _build/html/ public/
+  only:
+  - master
   artifacts:
     paths:
     - public/
-
