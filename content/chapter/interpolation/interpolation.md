@@ -1,3 +1,8 @@
 # II - Interpolation et approximation polynomiale 
 
- 
+ Le Chapitre 2 du cours introduit l’interpolation polynomiale proposée à l’origine par Newton et Lagrange avec plusieurs axes. Le premier est de fournir les divers formalismes possibles entre celui de Lagrange, qui a mauvaise presse mais a connu un renouveau au milieu des années 2000 avec l’utilisation des formules barycentriques, et celui de Newton, souvent enseigné mais qui pose de nombreux problèmes de stabilité. Le second, fondamental, consiste à connaître les propriétés théoriques de convergence qui constituent un guide d’analyse des résultats et évite de tomber dans des pièges classiques dans le domaine. Le dernier est celui de l’analyse du conditionnement des problèmes mathématiques et de la stabilité des méthodes, que nous étudié au Chapitre 1 et qui s’illustre ici parfaitement.
+
+Le lecteur trouvera tout d’abord dans ce chapitre du JupyterBook des exemples classiques et historiques. Un second sous-chapitre permet d’illustrer le phénomène de Runge sur la fonction…de Runge ! Les limites de l’approche de Newton sont illustrées dans un troisième volet, qui montre que la base de Newton mène à des algorithmes essentiellement instables, y compris lorsque l’on considère les points de Tchebychef. 
+
+Pour ne pas rentrer en collision avec la PC, deux autres notebooks présentés en cours, seront ajoutés une fois les rendus de la PC2 récupérés, permettant de montrer que si l’on comprend bien d’où viennent les limites de stabilité des algorithmes, on peut passer d’une limite à 60 points à une limites à plus de 5000 points sans problème sur la fonction de Trefethen comme étudiée en PC2. Par ailleurs, l’utilisation de mpmath et de calcul en précision arbitraire permet d’isoler très clairement les questions de conditionnement du problème et de stabilité des méthodes.
+
