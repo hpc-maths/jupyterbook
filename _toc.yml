@@ -18,6 +18,8 @@ parts:
   - file: content/chapter/interpolation/interpolation
     sections:
     - file: content/chapter/interpolation/premiers_exemples
+    - file: content/chapter/interpolation/runge
+    - file: content/chapter/interpolation/newton
 - caption: Petites Classes
   chapters:
   - file: content/pc/pc1
