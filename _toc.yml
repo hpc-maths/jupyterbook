@@ -23,6 +23,7 @@ parts:
   - file: content/chapter/integration/integration
     sections:
     - file: content/chapter/integration/erreur
+    - file: content/chapter/integration/ordre
 - caption: Petites Classes
   chapters:
   - file: content/pc/pc1
