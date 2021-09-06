@@ -20,12 +20,17 @@ parts:
     - file: content/chapter/interpolation/premiers_exemples
     - file: content/chapter/interpolation/runge
     - file: content/chapter/interpolation/newton
+  - file: content/chapter/integration/integration
+    sections:
+    - file: content/chapter/integration/erreur
 - caption: Petites Classes
   chapters:
   - file: content/pc/pc1
     title: PC 1
   - file: content/pc/pc2
     title: PC 2
+  - file: content/pc/pc3
+    title: PC 3
 - caption: Tutorat Python
   chapters:
   - file: content/tutorial/tuto_01
