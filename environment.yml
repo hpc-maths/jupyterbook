@@ -8,3 +8,5 @@ dependencies:
   - mpmath
   - plotly
   - scipy
+  - sympy
+  - quadpy 
