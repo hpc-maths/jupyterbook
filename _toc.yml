@@ -22,8 +22,9 @@ parts:
     - file: content/chapter/interpolation/newton
   - file: content/chapter/integration/integration
     sections:
-    - file: content/chapter/integration/erreur
     - file: content/chapter/integration/ordre
+    - file: content/chapter/integration/erreur
+    - file: content/chapter/integration/adapt
 - caption: Petites Classes
   chapters:
   - file: content/pc/pc1
