@@ -37,3 +37,4 @@ parts:
   chapters:
   - file: content/tutorial/tuto_01
   - file: content/tutorial/tuto_02
+  - file: content/tutorial/tuto_03
