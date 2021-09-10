@@ -25,6 +25,10 @@ parts:
     - file: content/chapter/integration/ordre
     - file: content/chapter/integration/erreur
     - file: content/chapter/integration/adapt
+  - file: content/chapter/syst_lin_direct/syst_lin_direct
+    sections:
+    - file: content/chapter/syst_lin_direct/pivot
+    - file: content/chapter/syst_lin_direct/sys_lin_sage
 - caption: Petites Classes
   chapters:
   - file: content/pc/pc1

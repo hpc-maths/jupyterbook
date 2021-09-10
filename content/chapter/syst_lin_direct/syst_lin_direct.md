@@ -1,0 +1,5 @@
+# IV - Résolution des systèmes linéaires par des méthodes directes
+
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam convallis ornare orci eget tristique. Fusce sed justo facilisis, interdum turpis nec, laoreet quam. Etiam at consequat metus. Integer blandit nec tortor nec interdum. Maecenas id tellus urna. In fringilla urna tristique lorem auctor, at ultricies ligula porta. Quisque sit amet dignissim neque, sed ultricies turpis. Cras id augue pharetra tortor iaculis dapibus eu id elit. Nullam blandit lobortis quam, eu commodo est gravida nec.
+
+Suspendisse vel erat efficitur, ultricies orci quis, vulputate urna. Morbi posuere ligula non pulvinar rutrum. Mauris suscipit purus sed lectus consequat, ut vestibulum enim elementum. Donec aliquet eu metus eget scelerisque. Fusce vel mi massa. Nullam venenatis quam felis, ac vehicula nisl viverra at. Quisque quam erat, scelerisque et euismod ut, porttitor sed dolor. Quisque quis aliquet metus. Aliquam erat volutpat. Sed at orci at magna tincidunt pretium accumsan eu diam. Fusce id sem a lectus pellentesque consequat. 
