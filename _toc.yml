@@ -37,6 +37,8 @@ parts:
     title: PC 2
   - file: content/pc/pc3
     title: PC 3
+  - file: content/pc/pc4
+    title: PC 4
 - caption: Tutorat Python
   chapters:
   - file: content/tutorial/tuto_01
