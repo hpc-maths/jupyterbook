@@ -30,6 +30,7 @@ parts:
     sections:
     - file: content/chapter/syst_lin_direct/pivot
     - file: content/chapter/syst_lin_direct/sys_lin_sage
+    - file: content/chapter/syst_lin_direct/storage
 - caption: Petites Classes
   chapters:
   - file: content/pc/pc1
