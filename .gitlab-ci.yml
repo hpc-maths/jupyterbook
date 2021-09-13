@@ -1,11 +1,9 @@
-image: continuumio/miniconda3
+image: condaforge/mambaforge
 
 pages:
   script:
   - conda env create -f environment.yml
-  - source activate jupyterbook_map412
-  - pwd
-  - ls
+  - source activate jb_map412
   - jupyter-book build . 
   - mv _build/html/ public/
   only:
