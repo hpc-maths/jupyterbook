@@ -10,7 +10,7 @@ logo: logo_map412.png
 execute:
   execute_notebooks: force
   allow_errors: true
-  timeout: 240
+  timeout: 480
   exclude_patterns:
     - 'content/pc/pc*'
 
