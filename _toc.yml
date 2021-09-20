@@ -34,6 +34,9 @@ parts:
   - file: content/chapter/syst_lin_iteratif/syst_lin_iteratif
     sections:
     - file: content/chapter/syst_lin_iteratif/methodes
+    - file: content/chapter/syst_lin_iteratif/gradient
+    - file: content/chapter/syst_lin_iteratif/precondionnement
+    - file: content/chapter/syst_lin_iteratif/poisson1d2d3d
 - caption: Petites Classes
   chapters:
   - file: content/pc/pc1
