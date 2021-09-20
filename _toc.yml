@@ -31,6 +31,9 @@ parts:
     - file: content/chapter/syst_lin_direct/pivot
     - file: content/chapter/syst_lin_direct/sys_lin_sage
     - file: content/chapter/syst_lin_direct/storage
+  - file: content/chapter/syst_lin_iteratif/syst_lin_iteratif
+    sections:
+    - file: content/chapter/syst_lin_iteratif/methodes
 - caption: Petites Classes
   chapters:
   - file: content/pc/pc1
@@ -41,6 +44,8 @@ parts:
     title: PC 3
   - file: content/pc/pc4
     title: PC 4
+  - file: content/pc/pc5
+    title: PC 5
 - caption: Tutorat Python
   chapters:
   - file: content/tutorial/tuto_01
