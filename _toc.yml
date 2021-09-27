@@ -37,6 +37,11 @@ parts:
     - file: content/chapter/syst_lin_iteratif/gradient
     - file: content/chapter/syst_lin_iteratif/poisson1d2d3d
     - file: content/chapter/syst_lin_iteratif/precondionnement
+  - file: content/chapter/eq_non_lineaire/eq_non_lineaire
+    sections:
+    - file: content/chapter/eq_non_lineaire/newton_secante
+    - file: content/chapter/eq_non_lineaire/pathologique
+    - file: content/chapter/eq_non_lineaire/explosion_thermique
 - caption: Petites Classes
   chapters:
   - file: content/pc/pc1
@@ -49,6 +54,8 @@ parts:
     title: PC 4
   - file: content/pc/pc5
     title: PC 5
+  - file: content/pc/pc6
+    title: PC 6
 - caption: Tutorat Python
   chapters:
   - file: content/tutorial/tuto_01
