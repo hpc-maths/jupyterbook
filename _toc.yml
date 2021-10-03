@@ -42,6 +42,11 @@ parts:
     - file: content/chapter/eq_non_lineaire/newton_secante
     - file: content/chapter/eq_non_lineaire/pathologique
     - file: content/chapter/eq_non_lineaire/explosion_thermique
+  - file: content/chapter/edo_1/edo_1
+    sections:
+    - file: content/chapter/edo_1/curtiss
+    - file: content/chapter/edo_1/brusselator
+    - file: content/chapter/edo_1/lorenz
 - caption: Petites Classes
   chapters:
   - file: content/pc/pc1
