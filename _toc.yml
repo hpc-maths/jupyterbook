@@ -44,9 +44,10 @@ parts:
     - file: content/chapter/eq_non_lineaire/explosion_thermique
   - file: content/chapter/edo_1/edo_1
     sections:
+    - file: content/chapter/edo_1/exemples
     - file: content/chapter/edo_1/curtiss
-    - file: content/chapter/edo_1/brusselator
-    - file: content/chapter/edo_1/lorenz
+    - file: content/chapter/edo_1/arenstorf
+    - file: content/chapter/edo_1/explosion
 - caption: Petites Classes
   chapters:
   - file: content/pc/pc1
@@ -61,6 +62,8 @@ parts:
     title: PC 5
   - file: content/pc/pc6
     title: PC 6
+  - file: content/pc/pc7
+    title: PC 7
 - caption: Tutorat Python
   chapters:
   - file: content/tutorial/tuto_01
