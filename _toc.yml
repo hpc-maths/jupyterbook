@@ -48,6 +48,9 @@ parts:
     - file: content/chapter/edo_1/curtiss
     - file: content/chapter/edo_1/arenstorf
     - file: content/chapter/edo_1/explosion
+  - file: content/chapter/edo_2/edo_2
+    sections:
+    - file: content/chapter/edo_2/curtiss_rk
 - caption: Petites Classes
   chapters:
   - file: content/pc/pc1
