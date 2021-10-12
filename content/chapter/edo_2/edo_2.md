@@ -1,2 +1,6 @@
 # VIII - EDO II : Méthodes de Runge-Kutta
 
+Après avoir introduit dans le cadre de méthodes "simples" d'ordre 1
+un certain nombre de concepts que l'on retrouve dans beaucoup d'études d'analyse numérique comme les définitions de stabilité, les définitions d'erreur locale de troncature et d'erreur globale, la convergence, l'ordre, la notion de raideur, nous allons aborder dans ce cours de manière plus générale l'analyse des méthodes à un pas d'ordre élevé. L'idée est d'être plus précis et plus performant en terme de calcul à précision fixée.
+Nous allons donc reprendre les notions abordées au chapitre précédent et les approfondir dans le cadre de la présentation et l'analyse des méthodes de Runge-Kutta. En particulier, nous étudierons les diverses notions de stabilité pour ces méthodes.  Nous aborderons ensuite la notion de pas de temps adaptatif basé sur un estimateur d'erreur local, très utile en pratique pour les problèmes raide;  ce type d'approche est  présent dans de nombreuses bibliothèques.
+Nous avons choisi de nous concentrer sur cette classe de méthode à un pas par soucis de concision dans un cours qui aborde déjà de nombreux sujets et de proposer un panorama des autres méthodes dans la section extension.
