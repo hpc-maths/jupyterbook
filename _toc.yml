@@ -51,6 +51,7 @@ parts:
   - file: content/chapter/edo_2/edo_2
     sections:
     - file: content/chapter/edo_2/curtiss_rk
+  - file: content/chapter/edp_1/edp_1
 - caption: Petites Classes
   chapters:
   - file: content/pc/pc1
