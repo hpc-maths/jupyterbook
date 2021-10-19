@@ -9,3 +9,5 @@ La notion de raideur du système d’EDO obtenu est analysée graphiquement (th�
 Il est alors intéressant de considérer la notion de convergence au sens des EDPs, au-delà de son pendant en version EDO, et d’analyse la convergence en termes des pas d’espace et de temps, dans la lignée de la théorie de Lax et Richtmyer. Il y a ici quelques subtilités suivant comment on lie le pas d’espace et de temps, en particulier lorsque l’on a la latitude de les choisir indépendamment dans le cadre de méthodes implicites. 
 
 Nous terminons par une résolution avec diverses méthodes numériques de l’équation de Nagumo (Splitting, IMEX). Il s’agit d’un cas d’école de résolution d’une équation non-linéaire et permet de saisir l’étendues des techniques possibles pour aborder ce type d’équation.
+
+Les notebooks présentés en amphi sont disponibles [ici](https://moodle.polytechnique.fr/pluginfile.php/325586/mod_folder/content/0/MAP412_Amphi9_Notebooks.zip?forcedownload=1).

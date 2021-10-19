@@ -11,3 +11,6 @@ Nous vérifions aussi l’ordre des méthodes implicites de type Radau 3 et 5, c
 Nous aborderons ensuite la notion de pas de temps adaptatif basé sur un estimateur d’erreur local, très utile en pratique pour les problèmes raides ; ce type d’approche est présent dans de nombreuses bibliothèques. Nous traitons alors du système d’équations de Belousov et Zhabotinsky (réactions chimiques oscillantes) et montrons l’efficacité de l’estimateur d’erreur local, l’impact de la raideur et la qualité de l’approche de type pas de temps adaptatif sur l’erreur globale.
 
 Pour finir, l’ensemble des méthodes sont testées sur le problème très non-linéaire de l’explosion thermique. Cette équation scalaire implique des valeurs propres réelles positives de très large amplitude dans un régime initial de type explosion puis des valeurs propres réelles négatives de très grande amplitude menant à une très forte raideur en fin d’intégration. Nous illustrons le fait que pour ce type de problème, la « bonne » stratégie consiste à utiliser une méthode implicite à pas de temps adaptatif d’ordre élevé, type Radau 5.
+
+
+Les notebooks présentés en amphi sont disponibles [ici](https://moodle.polytechnique.fr/pluginfile.php/325583/mod_folder/content/0/MAP412_Notebooks_Cours8.zip?forcedownload=1).
