@@ -1,4 +1,4 @@
-# IX - EDP I : L'équation de la chaleur
+# IX - EDP I : Équations de la chaleur et de Nagumo
 
 Dans ce chapitre, nous focalisons notre attention sur l’équation de la chaleur, une équation scalaire linéaire, dans un premier temps et abordons ensuite son pendant non-linéaire en ajoutant un terme source non-linéaire pour obtenir une équation de réaction-diffusion dite de Nagumo, qui admet des solutions de type ondes progressives.
 
