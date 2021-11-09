@@ -52,6 +52,10 @@ parts:
     sections:
     - file: content/chapter/edo_2/curtiss_rk
   - file: content/chapter/edp_1/edp_1
+  - file: content/chapter/edp_2/edp_2
+    sections:
+    - file: content/chapter/edp_2/linear
+    
 - caption: Petites Classes
   chapters:
   - file: content/pc/pc1
@@ -70,6 +74,10 @@ parts:
     title: PC 7
   - file: content/pc/pc8
     title: PC 8
+  - file: content/pc/pc9
+    title: PC 9
+  - file: content/pc/pc10
+    title: PC 10
 - caption: Tutorat Python
   chapters:
   - file: content/tutorial/tuto_01
